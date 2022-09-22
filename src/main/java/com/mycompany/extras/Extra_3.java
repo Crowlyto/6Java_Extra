@@ -22,14 +22,19 @@ public class Extra_3 {
         vocal=vocal.toLowerCase();
         switch (vocal){
             case "a":
+                System.out.println("Es Vocal");
                 break;
             case "e":
+                System.out.println("Es Vocal");
                 break;
             case "i":
+                System.out.println("Es Vocal");
                 break;
             case "o":
+                System.out.println("Es Vocal");
                 break;
             case "u":
+                System.out.println("Es Vocal");
                 break;
             default:
                 System.out.println("La letra ingresada no es vocal");
